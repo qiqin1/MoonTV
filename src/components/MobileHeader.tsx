@@ -76,7 +76,7 @@ const MobileHeader = ({ showBackButton = false }: MobileHeaderProps) => {
           {showBackButton && <BackButton />}
           <Link
             href='/'
-            className='text-xl font-bold text-green-600 tracking-tight hover:opacity-80 transition-opacity'
+            className='text-xl font-bold text-red-500 tracking-tight hover:opacity-80 transition-opacity'
           >
             {siteName}
           </Link>
