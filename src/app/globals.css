@@ -512,7 +512,6 @@ div[data-media-provider] video {
 
 
 /* MoonTV：默认黑色影院界面与红色导航主题 */
-html.dark body { background: #000 !important; color: #e5e5e5; }
 html.dark .top-nav { background: rgba(0, 0, 0, 0.94) !important; border-color: rgba(255,255,255,.10) !important; }
 .top-nav__logo { color: #ef4444 !important; }
 .top-nav__link, .top-nav__link:visited { color: #ef4444 !important; }
