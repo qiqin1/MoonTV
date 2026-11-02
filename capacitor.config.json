@@ -1,0 +1,10 @@
+{
+  "appId": "com.qiqin1.moontv",
+  "appName": "QiQin TV",
+  "webDir": "public",
+  "server": {
+    "url": "https://moontv-10q.pages.dev",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
